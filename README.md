@@ -6,10 +6,10 @@ Este repositorio contiene una implementación del problema de programación de a
 
 El método isLeapYear(year) debe devolver true si el año es bisiesto, y false si no lo es, según las siguientes normas:
 
-Un año no es bisiesto si no es divisible por 4
-Un año es bisiesto si es divisible por 4
-Un año es bisiesto si es divisible por 400
-Un año no es bisiesto si es divisible por 100 pero no por 400
+  Un año no es bisiesto si no es divisible por 4<br>
+  Un año es bisiesto si es divisible por 4<br>
+  Un año es bisiesto si es divisible por 400<br>
+  Un año no es bisiesto si es divisible por 100 pero no por 400<br>
 
 En este proyecto he incluido dos versiones:
 1. La versión estándar
